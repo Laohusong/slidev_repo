@@ -1,0 +1,9 @@
+{
+  "name": "slidev_repo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "new": "node tools/new-presentation.mjs"
+  },
+  "engines": { "node": ">=22.12.0" }
+}
